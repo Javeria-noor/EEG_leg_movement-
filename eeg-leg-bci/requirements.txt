@@ -1,0 +1,24 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+scikit-learn>=1.3
+
+# Signal processing / neuroimaging
+mne>=1.5
+openneuro-py>=2024.1.0
+
+# Deep learning (EEGNet)
+torch>=2.0
+
+# Dashboard
+streamlit>=1.30
+plotly>=5.18
+
+# Plotting / notebooks
+matplotlib>=3.7
+seaborn>=0.13
+jupyter>=1.0
+ipykernel>=6.25
+
+# Testing
+pytest>=7.4
